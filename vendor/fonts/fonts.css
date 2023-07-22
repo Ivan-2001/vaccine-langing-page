@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Ubuntu-Regular.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Ubuntu-Medium.woff2?v=3.19") format("woff2");
+}

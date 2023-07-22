@@ -1,0 +1,14 @@
+.preview__button {
+  border-radius: 10px;
+  background: #fe4610;
+
+  /* shading_primery */
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.06);
+  padding: 15px 22px 15px 23px;
+  color: #fff;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

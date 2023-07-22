@@ -1,0 +1,11 @@
+.preview__card {
+  background-color: #ffe1d8;
+  border-radius: 10px;
+}
+
+.preview__card:nth-child(5) {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}

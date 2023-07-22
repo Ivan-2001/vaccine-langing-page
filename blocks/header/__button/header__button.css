@@ -1,0 +1,12 @@
+.header__button {
+  padding: 15px 28px 15px 29px;
+  background-color: #fe4610;
+  border-radius: 10px;
+  color: #fff;
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.preview__text {
+  color: #b9c0c1;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 228.571% */
+  max-width: 410px;
+  margin: 16px 0 0 0;
+  padding: 0;
+}

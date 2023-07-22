@@ -1,0 +1,7 @@
+.preview__button_inversion {
+  padding: 14px 29px 14px 28px;
+  border-radius: 10px;
+  border: 1px solid var(--orange-primary, #f75532);
+  color: #fe4610;
+  background-color: #fff;
+}

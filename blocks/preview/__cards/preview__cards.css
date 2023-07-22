@@ -1,0 +1,11 @@
+.preview__cards {
+  display: grid;
+  grid-template-rows: 184px 184px;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 21px;
+  width: 100%;
+  max-width: 581px;
+  margin-left: auto;
+  position: relative;
+  bottom: 22px;
+}
