@@ -1,0 +1,29 @@
+.schedule__input {
+  color: #abadad;
+  font-family: Ubuntu;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 225px;
+  height: 48px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background: #fafafa;
+  border: none;
+  padding: 16px 0 16px 16px;
+  margin-left: 56px;
+}
+
+::-webkit-input-placeholder {
+  color: #abadad;
+}
+::-moz-placeholder {
+  color: #abadad;
+} /* Firefox 19+ */
+:-moz-placeholder {
+  color: #abadad;
+} /* Firefox 18- */
+:-ms-input-placeholder {
+  color: #abadad;
+}

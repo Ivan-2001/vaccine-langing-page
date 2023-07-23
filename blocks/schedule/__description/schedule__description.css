@@ -1,0 +1,9 @@
+.schedule__description {
+  color: var(--black-primery, #001f29);
+  font-family: Ubuntu;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 2px;
+}

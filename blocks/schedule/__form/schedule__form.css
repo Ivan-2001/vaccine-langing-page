@@ -1,0 +1,9 @@
+.schedule__form {
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.06);
+  margin-top: 33px;
+  display: flex;
+  gap: 57px;
+  padding: 24px 25px 24px 24px;
+}

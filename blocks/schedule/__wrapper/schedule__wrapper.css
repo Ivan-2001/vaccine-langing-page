@@ -1,0 +1,6 @@
+.schedule__wrapper {
+  display: flex;
+  gap: 16px;
+  justify-content: start;
+  align-items: center;
+}

@@ -26,3 +26,11 @@
 @import url(../blocks/offers/__point/offers__point.css);
 @import url(../blocks/trademarks/trademarks.css);
 @import url(../blocks/trademarks/__heading/trademarks__heading.css);
+@import url(../blocks/schedule/schedule.css);
+@import url(../blocks/schedule/__heading/schedule_heading.css);
+@import url(../blocks/schedule/__form/schedule__form.css);
+@import url(../blocks/schedule/__field/schedule__field.css);
+@import url(../blocks/schedule/__wrapper/schedule__wrapper.css);
+@import url(../blocks/schedule/__description/schedule__description.css);
+@import url(../blocks/schedule/__input/schedule__input.css);
+@import url(../blocks/schedule/__button/schedule__button.css);
