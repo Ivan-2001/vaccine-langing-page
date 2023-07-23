@@ -1,0 +1,6 @@
+.offers__point {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background: var(--bg, #ffe1d8);
+}

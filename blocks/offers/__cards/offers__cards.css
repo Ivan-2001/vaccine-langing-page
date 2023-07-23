@@ -1,0 +1,7 @@
+.offers__cards {
+  display: flex;
+  gap: 16px;
+  width: 100%;
+  max-width: 767px;
+  align-items: flex-end;
+}

@@ -1,0 +1,25 @@
+.offers__card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  background: #fff;
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.06);
+  padding: 25px 31px 30px 111px;
+  width: 245px;
+  gap: 10px;
+  height: 113px;
+  box-sizing: border-box;
+}
+
+.offers__card:nth-child(1) {
+  padding: 25px 31px 30px 54px;
+  height: 179px;
+}
+
+.offers__card:nth-child(1) .offers__heading {
+  margin-left: 57px;
+}
+
+.offers__card:nth-child(1) .offers__description {
+  margin-left: 57px;
+}

@@ -1,0 +1,6 @@
+.offers {
+  margin: 18px 180px 0 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}

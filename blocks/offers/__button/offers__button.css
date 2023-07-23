@@ -1,0 +1,15 @@
+.offers__button {
+  padding: 11px 23px;
+  border-radius: 30px;
+  border: 1px solid #f75532;
+  font-family: "Ubuntu";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: #f75532;
+  margin-top: 19px;
+  display: flex;
+  justify-content: center;
+  width: 75px;
+}

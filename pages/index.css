@@ -16,3 +16,11 @@
 @import url(../blocks/preview/__button/_inversion/preview__button_inversion.css);
 @import url(../blocks/preview/__cards/preview__cards.css);
 @import url(../blocks/preview/__card/preview__card.css);
+@import url(../blocks/offers/offers.css);
+@import url(../blocks/offers/__cards/offers__cards.css);
+@import url(../blocks/offers/__card/offers__card.css);
+@import url(../blocks/offers/__heading/offers__heading.css);
+@import url(../blocks/offers/__description/offers__description.css);
+@import url(../blocks/offers/__button/offers__button.css);
+@import url(../blocks/offers/__pattern/pattern.css);
+@import url(../blocks/offers/__point/offers__point.css);
