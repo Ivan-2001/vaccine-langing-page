@@ -1,0 +1,9 @@
+.trademarks__heading {
+  color: var(--black-txt, #b9c0c1);
+  font-family: Mulish;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+}

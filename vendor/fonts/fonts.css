@@ -11,3 +11,10 @@
   font-weight: 500;
   src: url("../fonts/Ubuntu-Medium.woff2?v=3.19") format("woff2");
 }
+
+@font-face {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Mulish-SemiBold.woff2") format("woff2");
+}

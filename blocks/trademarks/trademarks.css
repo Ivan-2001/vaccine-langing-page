@@ -1,0 +1,9 @@
+.trademarks {
+  display: flex;
+  background: #f2f2f2;
+  padding: 40px 146px 40px 166px;
+  gap: 60px;
+  margin: 40px 140px 0 120px;
+  justify-content: center;
+  box-sizing: border-box;
+}
