@@ -1,0 +1,9 @@
+.order__heading {
+  color: var(--black-primery, #001f29);
+  font-family: Ubuntu;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 0;
+}

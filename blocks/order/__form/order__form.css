@@ -1,0 +1,11 @@
+.order__form {
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.06);
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 33px 31px 38px 32px;
+  margin-top: 33px;
+  row-gap: 30px;
+}

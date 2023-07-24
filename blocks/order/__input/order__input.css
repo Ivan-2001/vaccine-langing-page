@@ -1,0 +1,9 @@
+.order__input {
+  box-sizing: border-box;
+  width: 375px;
+  padding: 20px 0 16px 14px;
+  border-radius: 10px;
+  background: #fafafa;
+  border: none;
+  color: var(--form, #abadad);
+}
