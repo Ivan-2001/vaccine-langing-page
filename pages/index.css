@@ -34,3 +34,9 @@
 @import url(../blocks/schedule/__description/schedule__description.css);
 @import url(../blocks/schedule/__input/schedule__input.css);
 @import url(../blocks/schedule/__button/schedule__button.css);
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__heading/advantages__heading.css);
+@import url(../blocks/advantages/__description/advantages__description.css);
+@import url(../blocks/advantages/__wrapper/advantages__wrapper.css);
+@import url(../blocks/advantages/__heading-opportunities/advantages__heading-opportunities.css);
+@import url(../blocks/advantages/__description-opportunities/advantages__description-opportunities.css);

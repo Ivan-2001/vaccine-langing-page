@@ -1,0 +1,5 @@
+.advantages {
+  margin: 0 140px 0 120px;
+  display: flex;
+  flex-direction: column;
+}
