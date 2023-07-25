@@ -1,0 +1,4 @@
+.contact__card-info-wrapper {
+  display: flex;
+  gap: 16px;
+}

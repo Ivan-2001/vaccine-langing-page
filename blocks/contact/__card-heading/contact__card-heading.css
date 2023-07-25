@@ -1,0 +1,9 @@
+.contact__card-heading {
+  margin: 0;
+  color: var(--black-primery, #001f29);
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

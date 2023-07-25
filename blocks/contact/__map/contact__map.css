@@ -1,0 +1,8 @@
+.contact__map {
+  width: 514px;
+  height: 400px;
+  background: url(../../../images/contact__map.png) no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
+  margin-top: 30px;
+}

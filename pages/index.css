@@ -48,3 +48,16 @@
 @import url(../blocks/order/__form-wrapper/order__form-wrapper.css);
 @import url(../blocks/order/__input/order__input.css);
 @import url(../blocks/order/__button/order__button.css);
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/contact/__map/contact__map.css);
+@import url(../blocks/contact/__wrapper/contact__wrapper.css);
+@import url(../blocks/contact/__heading/contact__heading.css);
+@import url(../blocks/contact/__description/contact__description.css);
+@import url(../blocks/contact/__cards/contact__cards.css);
+@import url(../blocks/contact/__card/contact__card.css);
+@import url(../blocks/contact/__card-info-wrapper/contact__card-info-wrapper.css);
+@import url(../blocks/contact/__img/contact__img.css);
+@import url(../blocks/contact/__card-info/contact__card-info.css);
+@import url(../blocks/contact/__card-heading/contact__card-heading.css);
+@import url(../blocks/contact/__card-description/contact__card-description.css);
+@import url(../blocks/contact/__button/contact__button.css);

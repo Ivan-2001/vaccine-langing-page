@@ -1,0 +1,9 @@
+.contact__card-description {
+  margin: 0;
+  color: var(--black-txt, #b9c0c1);
+  font-family: Ubuntu;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

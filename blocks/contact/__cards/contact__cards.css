@@ -1,0 +1,6 @@
+.contact__cards {
+  display: flex;
+  column-gap: 16px;
+  row-gap: 18px;
+  flex-wrap: wrap;
+}
