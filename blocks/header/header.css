@@ -2,3 +2,10 @@
   display: flex;
   margin: 24px 140px 78px 120px;
 }
+
+@media screen and (max-width: 899px) {
+  .header {
+    width: 90%;
+    margin: 24px auto 78px auto;
+  }
+}

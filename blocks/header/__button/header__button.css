@@ -10,3 +10,16 @@
   line-height: normal;
   text-decoration: none;
 }
+
+@media screen and (max-width: 899px) {
+  .header__button {
+    margin: 0 0 0 30px;
+    padding: 12px 18px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .header__button {
+    margin: 30px 50px;
+  }
+}
