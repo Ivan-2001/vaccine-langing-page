@@ -61,3 +61,11 @@
 @import url(../blocks/contact/__card-heading/contact__card-heading.css);
 @import url(../blocks/contact/__card-description/contact__card-description.css);
 @import url(../blocks/contact/__button/contact__button.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__img/footer__img.css);
+@import url(../blocks/footer/__description/footer__description.css);
+@import url(../blocks/footer/__heading/footer__heading.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__elem/footer__elem.css);
+@import url(../blocks/footer/__link/footer__link.css);
