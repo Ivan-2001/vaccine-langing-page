@@ -3,3 +3,9 @@
   gap: 16px;
   margin-top: 32px;
 }
+
+@media screen and (max-width: 1299px) {
+  .preview__buttons {
+    justify-content: space-between;
+  }
+}

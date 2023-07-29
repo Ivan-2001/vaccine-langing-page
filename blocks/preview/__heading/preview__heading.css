@@ -9,3 +9,11 @@
   padding: 0;
   max-width: 391px;
 }
+
+@media screen and (max-width: 699px) {
+  .preview__heading {
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+  }
+}
