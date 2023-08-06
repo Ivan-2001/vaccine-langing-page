@@ -14,6 +14,12 @@
   .preview__heading {
     font-size: 40px;
     line-height: 52px;
-    text-align: center;
+  }
+}
+
+@media screen and (max-width: 449px) {
+  .preview__heading {
+    font-size: 32px;
+    line-height: 40px;
   }
 }

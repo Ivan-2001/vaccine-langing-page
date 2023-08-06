@@ -10,11 +10,28 @@
   bottom: 22px;
 }
 
+@media screen and (max-width: 1299px) {
+  .preview__cards {
+    margin: 30px auto;
+  }
+}
+
 @media screen and (max-width: 699px) {
   .preview__cards {
     bottom: 0;
-    margin: 0 auto;
-    grid-template-rows: repeat(3, 184px);
+    grid-template-rows: repeat(3, 230px);
     grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .preview__cards {
+    grid-template-rows: repeat(3, 165px);
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .preview__cards {
+    grid-template-rows: repeat(3, 150px);
   }
 }

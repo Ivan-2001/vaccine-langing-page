@@ -9,3 +9,9 @@
   margin: 16px 0 0 0;
   padding: 0;
 }
+
+@media screen and (max-width: 449px) {
+  .preview__text {
+    line-height: 26px;
+  }
+}
