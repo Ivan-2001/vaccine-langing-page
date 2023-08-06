@@ -9,3 +9,9 @@
     margin: 24px auto 78px auto;
   }
 }
+
+@media screen and (max-width: 530px) {
+  .header {
+    margin: 24px auto 0 auto;
+  }
+}
