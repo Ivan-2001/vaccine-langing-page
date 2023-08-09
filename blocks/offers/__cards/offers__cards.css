@@ -4,4 +4,12 @@
   width: 100%;
   max-width: 767px;
   align-items: flex-end;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media screen and (max-width: 633px) {
+  .offers__cards {
+    gap: 25px;
+  }
 }

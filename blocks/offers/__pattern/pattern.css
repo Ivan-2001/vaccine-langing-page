@@ -5,4 +5,11 @@
   flex-wrap: wrap;
   gap: 20px;
   margin-bottom: 20px;
+  margin-left: 45px;
+}
+
+@media screen and (max-width: 958px) {
+  .offers__pattern {
+    margin-right: 45px;
+  }
 }
