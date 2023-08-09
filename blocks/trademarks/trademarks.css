@@ -3,7 +3,14 @@
   background: #f2f2f2;
   padding: 40px 146px 40px 166px;
   gap: 60px;
-  margin: 40px 140px 0 120px;
+  margin: 40px 9.59% 0 8.22%;
   justify-content: center;
   box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1300px) {
+  .trademarks {
+    padding: 40px 5% 40px 5%;
+  }
 }
