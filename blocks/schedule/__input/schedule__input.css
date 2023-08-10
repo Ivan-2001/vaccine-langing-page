@@ -15,6 +15,12 @@
   margin-left: 56px;
 }
 
+@media screen and (max-width: 459px) {
+  .schedule__input {
+    margin: 0 auto;
+  }
+}
+
 ::-webkit-input-placeholder {
   color: #abadad;
 }

@@ -4,6 +4,15 @@
   box-shadow: 10px 24px 54px 0px rgba(0, 0, 0, 0.06);
   margin-top: 33px;
   display: flex;
-  gap: 57px;
-  padding: 24px 25px 24px 24px;
+  gap: 4.9126%;
+  padding: 24px 2%;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 50px;
+}
+
+@media screen and (max-width: 1459px) {
+  .schedule__form {
+    padding-top: 40px;
+  }
 }
