@@ -40,6 +40,7 @@
 @import url(../blocks/advantages/__wrapper/advantages__wrapper.css);
 @import url(../blocks/advantages/__heading-opportunities/advantages__heading-opportunities.css);
 @import url(../blocks/advantages/__description-opportunities/advantages__description-opportunities.css);
+@import url(../blocks/advantages/__opportunities/advantages__opportunities.css);
 @import url(../blocks/order/order.css);
 @import url(../blocks/order/__heading/order__heading.css);
 @import url(../blocks/order/__description/order__description.css);

@@ -8,3 +8,15 @@
   max-width: 495px;
   margin-top: 16px;
 }
+
+@media screen and (max-width: 849px) {
+  .advantages__description {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 489px) {
+  .advantages__description {
+    line-height: 30px;
+  }
+}

@@ -1,5 +1,11 @@
 .advantages {
-  margin: 0 140px 0 120px;
+  margin: 0 9.59% 0 8.22%;
   display: flex;
   flex-direction: column;
+}
+
+@media screen and (max-width: 849px) {
+  .advantages {
+    align-items: center;
+  }
 }

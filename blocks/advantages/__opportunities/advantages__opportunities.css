@@ -1,1 +1,7 @@
-
+@media screen and (max-width: 849px) {
+  .advantages__opportunities {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
