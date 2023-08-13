@@ -1,5 +1,15 @@
 .contact {
-  margin: 80px 140px 0 120px;
+  margin: 80px 9.59% 0 8.22%;
   display: flex;
-  gap: 116px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1360px) {
+  .contact {
+    flex-direction: column;
+    gap: 75px;
+    align-items: center;
+    margin: 80px 8.22% 0 8.22%;
+  }
 }

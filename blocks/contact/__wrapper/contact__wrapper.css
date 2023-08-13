@@ -4,3 +4,9 @@
   gap: 32px;
   max-width: 570px;
 }
+
+@media screen and (max-width: 1360px) {
+  .contact__wrapper {
+    text-align: center;
+  }
+}
