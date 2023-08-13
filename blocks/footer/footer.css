@@ -1,5 +1,21 @@
 .footer {
   margin: 120px 137px 75px 124px;
+
   display: flex;
-  gap: 130px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1239px) {
+  .footer {
+    gap: 40px;
+    margin: 120px 8.22% 70px 8.22%;
+  }
+}
+
+@media screen and (max-width: 745px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+  }
 }
