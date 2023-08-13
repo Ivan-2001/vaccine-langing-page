@@ -3,3 +3,9 @@
   flex-direction: column;
   gap: 9px;
 }
+
+@media screen and (max-width: 599px) {
+  .order__form-wrapper {
+    width: 100%;
+  }
+}

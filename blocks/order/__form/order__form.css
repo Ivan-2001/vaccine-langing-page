@@ -8,4 +8,11 @@
   padding: 33px 31px 38px 32px;
   margin-top: 33px;
   row-gap: 30px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 599px) {
+  .order__form {
+    padding: 33px 6%;
+  }
 }

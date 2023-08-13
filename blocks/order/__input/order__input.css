@@ -7,3 +7,9 @@
   border: none;
   color: var(--form, #abadad);
 }
+
+@media screen and (max-width: 599px) {
+  .order__input {
+    width: 100%;
+  }
+}
