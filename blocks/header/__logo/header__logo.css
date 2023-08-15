@@ -4,9 +4,9 @@
 
 @media screen and (max-width: 899px) {
   .header__logo {
-    margin: 0 auto 0 0;
-    width: 119px;
-    height: 28px;
-    padding: 0 40% 20px 40%;
+    margin: 0;
+    width: 100px;
+    padding: 0;
+    grid-area: logo;
   }
 }

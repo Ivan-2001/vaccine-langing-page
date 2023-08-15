@@ -13,13 +13,22 @@
 
 @media screen and (max-width: 899px) {
   .header__button {
-    margin: 0 0 0 30px;
+    margin: 0;
     padding: 12px 18px;
+    grid-area: button;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .header__button {
+    width: 127px;
+    box-sizing: border-box;
+    margin: 20px auto;
   }
 }
 
 @media screen and (max-width: 530px) {
   .header__button {
-    margin: 20px 50px;
+    margin: 20px auto;
   }
 }
