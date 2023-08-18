@@ -5,11 +5,11 @@
   align-items: flex-end;
   flex-wrap: wrap;
   gap: 50px;
-  justify-content: center;
 }
 
 @media screen and (max-width: 1200px) {
   .offers {
     margin: 18px 10% 0 10%;
+    justify-content: center;
   }
 }

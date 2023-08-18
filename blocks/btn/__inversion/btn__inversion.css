@@ -1,0 +1,9 @@
+.btn__inversion {
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.btn__inversion:hover {
+  color: #fff;
+  background-color: #fe4610;
+}

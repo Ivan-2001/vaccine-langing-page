@@ -70,3 +70,5 @@
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__elem/footer__elem.css);
 @import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/btn/btn.css);
+@import url(../blocks/btn/__inversion/btn__inversion.css);
