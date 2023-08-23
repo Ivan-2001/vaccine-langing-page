@@ -1,0 +1,32 @@
+.popup__loginWith {
+  display: flex;
+  align-items: center;
+  margin: 24px 0 0 0;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  width: 100%;
+  gap: 11px;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.popup__loginWith::after {
+  content: "";
+  background-color: #b9c0c1;
+  height: 1px;
+  flex-grow: 1;
+  left: 0;
+  top: 0;
+}
+
+.popup__loginWith::before {
+  content: "";
+  background-color: #b9c0c1;
+  height: 1px;
+  flex-grow: 1;
+  left: 0;
+  top: 0;
+}

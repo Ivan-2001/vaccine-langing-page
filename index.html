@@ -24,14 +24,14 @@
       </header>
       <section class="preview">
         <div class="preview__description">
-          <h1 class="preview__heading">Get Your Vaccine, Get Your Health</h1>
+          <h1 class="preview__heading" >Get Your Vaccine, Get Your Health</h1>
           <p class="preview__text">
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
             humour
           </p>
           <div class="preview__buttons">
-            <div class="preview__button btn">Get Your Vaccine</div>
+            <div class="preview__button btn" id="popupOpen">Get Your Vaccine</div>
             <div class="preview__button preview__button_inversion btn__inversion">
               Learn more
             </div>
@@ -353,5 +353,32 @@
         </div>
       </footer>
     </div>
+
+    <div class="popup" id="popup">
+      <div class="popup__container">
+        <form action="" class="popup__form"><div class="popup__header">
+          <h2 class="popup__heading">Login </h2>
+          <img src="./images/popup__img.svg" alt="Привет." class="popup__img"></div>
+          <p class="popup__description">How do I get started now</p>
+          <label class="popup__label" for="">Email</label>
+          <input class="popup__input" type="text" placeholder="Input email" required name="email">
+          <label class="popup__label" for="">Password</label>
+          <input class="popup__input" type="text" placeholder="Enter your password" required name="password">
+          <a href="#" class="popup__link">Forgot password?</a>
+          <button class="popup__button" type="submit">Login</button>
+      </form>
+        <p class="popup__loginWith">or signin with</p>
+        <a  href="#" class="popup__social">
+          <img src="./images/popup__img-social.svg" alt="Гугл." class="popup__img-social">Login With Google </a>
+        <a  href="#" class="popup__social">
+          <img src="./images/popup__img-social2.png" alt="Фэйсбук." class="popup__img-social">Login With Facebook</a>
+        <div class="popup__footer">
+          <p class="popup__signup-description">You haven’t accoun?</p>
+          <a href="#" class="popup__signup">Signup</a></div>
+        </div>
+        
+    </div>
+    <script src="./scripts/index.js"></script>
+    
   </body>
 </html>

@@ -1,0 +1,17 @@
+.popup__link {
+  color: #f75532;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  margin: 22px 0 24px auto;
+}
+
+.popup__link:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 999px) {
+  .popup__link {
+    margin: 22px auto 24px auto;
+  }
+}

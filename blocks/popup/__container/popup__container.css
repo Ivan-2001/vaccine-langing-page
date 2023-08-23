@@ -1,0 +1,33 @@
+.popup__container {
+  display: flex;
+  flex-direction: column;
+  width: 720px;
+  background-color: rgba(255, 255, 255, 1);
+  padding: 110px 166px;
+  box-sizing: border-box;
+  color: #b9c0c1;
+  font-family: "Ubuntu";
+  height: 900px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 999px) {
+  .popup__container {
+    width: 70%;
+    padding: 80px 10%;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .popup__container {
+    width: 85%;
+    padding: 80px 10%;
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .popup__container {
+    width: 100%;
+    padding: 80px 10%;
+  }
+}

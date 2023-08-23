@@ -1,0 +1,10 @@
+.popup__footer {
+  display: flex;
+  margin-top: 24px;
+}
+
+@media screen and (max-width: 999px) {
+  .popup__footer {
+    justify-content: center;
+  }
+}

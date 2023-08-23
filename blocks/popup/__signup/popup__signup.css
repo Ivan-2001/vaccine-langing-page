@@ -1,0 +1,10 @@
+.popup__signup {
+  color: #f75532;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+  margin-left: 4px;
+  cursor: pointer;
+}
